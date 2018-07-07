@@ -25,7 +25,8 @@
     "README.md"
   ],
   "dependencies": {
-    "@mark48evo/rabbitmq-pubsub": "^1.1.0"
+    "@mark48evo/rabbitmq-pubsub": "^1.1.1",
+    "amqplib": "^0.5.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.51",
