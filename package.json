@@ -1,6 +1,6 @@
 {
   "name": "@mark48evo/system-events",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A library for sharing system wide events",
   "author": "Aurimas Niekis <aurimas@niekis.lt> (https://github.com/Mark48Evo)",
   "license": "MIT",
